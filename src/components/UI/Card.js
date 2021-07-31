@@ -3,7 +3,7 @@ import React from 'react';
 import classes from './Card.module.css';
 
 // Custom Reusable wrapper component to 
-// apply Card type styling to all children elements
+//apply Card type styling to all children elements
 
 const Card = (props) => {
     return (
